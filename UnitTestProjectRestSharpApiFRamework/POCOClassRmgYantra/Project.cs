@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using UnitTestProjectRestSharpApiFRamework.Generic;
 
 namespace UnitTestProjectRestSharpApiFRamework.POCO_Class_RmgYantra
 {
@@ -82,4 +83,4 @@ namespace UnitTestProjectRestSharpApiFRamework.POCO_Class_RmgYantra
         }
     }
 }
-}
+

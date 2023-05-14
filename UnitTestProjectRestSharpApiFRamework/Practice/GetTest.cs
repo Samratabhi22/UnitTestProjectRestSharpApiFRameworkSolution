@@ -5,6 +5,7 @@ using System.Linq;
 using System.Net;
 using System.Text;
 using System.Threading.Tasks;
+using UnitTestProjectRestSharpApiFRamework.generic;
 
 namespace UnitTestProjectRestSharpApiFRamework.Practice
 {
