@@ -10,6 +10,7 @@ using UnitTestProjectRestSharpApiFRamework.POCO_Class_RmgYantra;
 
 namespace UnitTestProjectRestSharpApiFRamework.Practice
 {
+    [TestClass]
     public class PostProject: BaseClass
     {
         [TestMethod]
